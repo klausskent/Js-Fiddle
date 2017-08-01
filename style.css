@@ -2,14 +2,23 @@
 
 h1 {
 background-color:purple;
+border-radius: 100px;
 }
 h2 {
   color:blue;
+  border-radius: 100px;
+  background-color: green;
 }
 ol {
-  color:white;
+  color:blue;
   background-color:green;
   font-style: Italic;
-  padding: 10px  20px 5px
+  padding: 10px  20px 5px;
+  border-radius: 100px;
 }
+p {
+  background: orange;
+  border-radius:100px;
+}
+
 </style>
